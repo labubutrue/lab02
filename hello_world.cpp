@@ -1,6 +1,9 @@
 #include <iostream>
 #include <string>
 
+// Программа для Hello World с персонализацией
+// Удален using namespace std
+
 int main()
 {
     std::string name;
